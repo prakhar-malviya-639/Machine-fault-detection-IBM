@@ -58,14 +58,8 @@ To build a smart system that analyzes machinery data and detects faults automati
 
 ---
 
-## 📎 Important Links
-- 🔗 [View Notebook on GitHub](https://github.com/tejaswitadelu/machine-fault-detection-ibm)
-- 🔗 [IBM SkillsBuild Platform](https://skillsbuild.org/)
-
----
-
 ## 📬 Contact
-Feel free to connect on LinkedIn: [Tejaswi Tadelu](https://www.linkedin.com/in/tejaswitadelu)
+Feel free to connect on LinkedIn: [Prakhar Malviya](https://www.linkedin.com/in/prakhar-malviya-699a0528b)
 
 ---
 
@@ -102,13 +96,3 @@ View predictions in output cells
 💼 Internship Highlights
 
 ✅ Cloud-based AI model deployment✅ Real-world dataset analysis✅ GitHub portfolio project
-
-📎 Links
-
-🔗 GitHub Repository
-
-🔗 IBM SkillsBuild
-
-📬 Contact
-
-Tejaswi Tadelu - LinkedIn
